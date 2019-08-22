@@ -1,0 +1,7 @@
+C:\Users\quell\source\repos\SOSCSRPG\Engine\bin\Debug\Engine.dll
+C:\Users\quell\source\repos\SOSCSRPG\Engine\bin\Debug\Engine.pdb
+C:\Users\quell\source\repos\SOSCSRPG\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\quell\source\repos\SOSCSRPG\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\quell\source\repos\SOSCSRPG\Engine\obj\Debug\Engine.dll
+C:\Users\quell\source\repos\SOSCSRPG\Engine\obj\Debug\Engine.pdb
+C:\Users\quell\source\repos\SOSCSRPG\Engine\obj\Debug\Engine.g.resources
